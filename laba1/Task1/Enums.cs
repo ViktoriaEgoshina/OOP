@@ -9,12 +9,13 @@ public enum Habitat
 {
   Terrestrial,
   Aquatic,
-  Amphious
+  Amphious,
+  Aerial
 }
 
 public enum Continent
 {
-  Eursia,
+  Eurasia,
   Africa,
   NorthAmerica,
   SouthAmerica,
